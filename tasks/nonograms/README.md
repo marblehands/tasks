@@ -112,4 +112,4 @@ Recommended usage of [eslint (eslint-config-airbnb-base)](https://eslint.org/), 
 - [Local storage](https://learn.javascript.ru/localstorage)
 - [How-to solve nonogram](https://www.youtube.com/watch?v=TCqZ5p0dmC0)
 
-### If you have any questions according to requirements - you can ask it using [Form](https://docs.google.com/forms/d/e/1FAIpQLScRdSuHUFy8PuKS8egqgCatRLhIekJtH_crgCTkRiezDYi8qw/viewform?usp=sf_link) till 21.01.2024 23:59 GMT
+### If you have any questions according to requirements - you can ask it using [Form](https://forms.gle/D8Qsv71AeAdzU6S5A) till 21.01.2024 23:59 GMT
